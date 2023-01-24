@@ -2,3 +2,4 @@ print("Hello_world");
 new commint;
 
 lesson 5 - conflicts;
+print("nice to meet you, my friend");

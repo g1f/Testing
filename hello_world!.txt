@@ -1,4 +1,4 @@
 print("Hello_world");
-new commint
+new commint;
 
-lesson 5 - conflicts
+lesson 5 - conflicts;
